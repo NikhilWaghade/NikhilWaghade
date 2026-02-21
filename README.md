@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilWaghade&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NikhilWaghade&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![Certificate](https://img.shields.io/badge/Certificate-Hackathon_Sheriyansh-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.dropbox.com/scl/fi/3rsvbbvmqzzros2z9853w/Hackathon-Sheriyansh.pdf?rlkey=e9j9qrnpbj0j52mlzzdn4bcfr&st=9u59nyqy&dl=1)
 
 ### 🔝 Top Contributed Repo
  [![Excellup GitHub Repo](https://img.shields.io/badge/GitHub-Excellup__Excellup_Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/excellup/Excellup_Frontend)
