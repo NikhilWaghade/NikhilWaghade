@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=NikhilWaghade&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
- ![Excellup]([https://github.com/excellup/Excellup_Frontend](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white))
+ [![Excellup GitHub Repo](https://img.shields.io/badge/GitHub-Excellup__Excellup_Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/excellup/Excellup_Frontend)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
