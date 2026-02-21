@@ -14,6 +14,9 @@
 
 ## 🏆 GitHub Trophies
 [![Certificate](https://img.shields.io/badge/Certificate-Hackathon_Sheriyansh-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.dropbox.com/scl/fi/3rsvbbvmqzzros2z9853w/Hackathon-Sheriyansh.pdf?rlkey=e9j9qrnpbj0j52mlzzdn4bcfr&st=9u59nyqy&dl=1)
+[![Hackathon SVP](https://img.shields.io/badge/Certificate-Hackathon_SVP-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.dropbox.com/scl/fi/4k3nt2h145f02bhc6gh8k/Hackathon-SVP.pdf?rlkey=h8nhyhwfjpw6h77uxbhy8hg7q&st=1q5awln4&dl=1)
+[![Internship Certificate](https://img.shields.io/badge/Certificate-Internship_CS-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.dropbox.com/scl/fi/fpsgsdg9dx96sqhgi4i1j/intership-CS.pdf?rlkey=usptpgi4uugvbwo2yjj52m1nu&st=n0fpdkth&dl=1)
+[![Zero Intern Certificate](https://img.shields.io/badge/Certificate-Zero_Intern-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.dropbox.com/scl/fi/vbujwfea80e8npbch9pjy/Zero-Intern-Certificate.pdf?rlkey=z1pfxdzmb52u59ytp0dnfaoo4&st=7ejq71i3&dl=1)
 
 ### 🔝 Top Contributed Repo
  [![Excellup GitHub Repo](https://img.shields.io/badge/GitHub-Excellup__Excellup_Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/excellup/Excellup_Frontend)
