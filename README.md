@@ -1,3 +1,9 @@
+                                                                                                  𝙃𝙞, 𝙄’𝙢 𝙉𝙞𝙠𝙝𝙞𝙡 𝙒𝙖𝙜𝙝𝙖𝙙𝙚 
+                                                                                                 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧  
+
+                                                                 𝙄 𝙗𝙪𝙞𝙡𝙙 𝙨𝙘𝙖𝙡𝙖𝙗𝙡𝙚 𝙬𝙚𝙗 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨 𝙪𝙨𝙞𝙣𝙜 𝙩𝙝𝙚 𝙈𝙀𝙍𝙉 𝙨𝙩𝙖𝙘𝙠 𝙖𝙣𝙙 𝙢𝙤𝙙𝙚𝙧𝙣 𝙛𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙩𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨.  
+                                                                𝙁𝙤𝙘𝙪𝙨𝙚𝙙 𝙤𝙣 𝙬𝙧𝙞𝙩𝙞𝙣𝙜 𝙘𝙡𝙚𝙖𝙣, 𝙢𝙖𝙞𝙣𝙩𝙖𝙞𝙣𝙖𝙗𝙡𝙚 𝙘𝙤𝙙𝙚 𝙖𝙣𝙙 𝙨𝙤𝙡𝙫𝙞𝙣𝙜 𝙧𝙚𝙖𝙡-𝙬𝙤𝙧𝙡𝙙 𝙥𝙧𝙤𝙗𝙡𝙚𝙢𝙨.
+
 # 💫 About Me:
 💼 Professional Introduction<br><br>👨‍💻 Full Stack Developer | 🎓 B.Tech CSE (2027) | 📘 CSE Diploma(2024)<br><br>🚀 Completed internships at Connect Shiksha and Zoro Innovation (Indore), working on real-world web applications and backend systems.<br><br>🏆 Participated in two state-level hackathons and earned a Web Development certification.<br><br>🛠 Skilled in building scalable applications using the MERN stack (MongoDB, Express, React, Node.js).
 
